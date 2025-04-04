@@ -11,13 +11,21 @@ This project contains several small C programs that demonstrate machine learning
 
 ## Build
 
-To build the project, run the `build.sh` script:
+To build the project, run the following command:
 
 ```bash
-./build.sh
+make
 ```
 
 This will compile all the C files and create executable files in the current directory.
+
+To clean the project, run the following command:
+
+```bash
+make clean
+```
+
+This will remove all the object files and executable files.
 
 ## Outputs
 
