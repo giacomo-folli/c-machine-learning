@@ -23,6 +23,10 @@ This will compile all the C files and create executable files in the current dir
 
 The `outputs/` directory is intended to store the output of the programs. However, it is not currently used by any of the programs.
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
 ## Next Steps and New Ideas
 
 Here are some propositions for the next steps and new ideas to implement:
