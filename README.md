@@ -46,4 +46,3 @@ Here are some propositions for the next steps and new ideas to implement:
 - Implement a simple classification algorithm, such as logistic regression or k-nearest neighbors.
 - Use the `outputs/` directory to store the output of the programs, such as the trained weights and biases.
 - Add comments to the code to explain the different steps and concepts.
-- Create a Makefile to simplify the build process.
