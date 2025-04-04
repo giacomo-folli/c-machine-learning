@@ -22,3 +22,16 @@ This will compile all the C files and create executable files in the current dir
 ## Outputs
 
 The `outputs/` directory is intended to store the output of the programs. However, it is not currently used by any of the programs.
+
+## Next Steps and New Ideas
+
+Here are some propositions for the next steps and new ideas to implement:
+
+- Implement the backpropagation algorithm in `twice.c` to train the neural network for the OR gate.
+- Add more activation functions to the neural network implementation in `gates.c`, such as ReLU and tanh.
+- Implement other logic gates, such as AND, XOR, and NOT.
+- Create a visualization of the neural network's training process.
+- Implement a simple classification algorithm, such as logistic regression or k-nearest neighbors.
+- Use the `outputs/` directory to store the output of the programs, such as the trained weights and biases.
+- Add comments to the code to explain the different steps and concepts.
+- Create a Makefile to simplify the build process.
