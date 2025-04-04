@@ -2,6 +2,7 @@
 
 set -xe
 
-clang -Wall -Wextra -o twice twice.c
+# clang -Wall -Wextra -o ./outputs/twice twice.c
 # clang -Wall -Wextra -o gates gates.c
-gcc gates.c -o gates -lm
+gcc gates.c -o ./outputs/gates -lm
+gcc twice.c -o ./outputs/twice -lm
