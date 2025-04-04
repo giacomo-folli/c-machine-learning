@@ -7,7 +7,7 @@ This project contains several small C programs that demonstrate machine learning
 - `main.c`: A simple linear regression example that attempts to learn the relationship between x and 2x.
 - `gates.c`: A neural network implementation that learns the OR gate using the sigmoid activation function.
 - `twice.c`: An incomplete attempt to implement a neural network for the OR gate. It calculates the cost but does not train the network.
-- `build.sh`: A script to compile all the C files.
+- `Makefile`: Basic makefile to compile all the code.
 
 ## Build
 

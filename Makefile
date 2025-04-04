@@ -10,4 +10,4 @@ twice: twice.c
 	gcc -o ./outputs/twice twice.c -lm
 
 clean:
-	rm -f main gates twice *.o
+	rm -f ./outputs/* *.o
