@@ -18,7 +18,6 @@ make
 ```
 
 This will compile all the C files and create executable files in the current directory.
-
 To clean the project, run the following command:
 
 ```bash
